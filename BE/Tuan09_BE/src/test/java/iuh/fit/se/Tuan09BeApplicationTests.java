@@ -1,4 +1,4 @@
-package iuh.fit.se.tuan09_be;
+package iuh.fit.se;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

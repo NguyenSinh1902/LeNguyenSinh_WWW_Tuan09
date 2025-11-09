@@ -1,4 +1,4 @@
-package iuh.fit.se.tuan09_be;
+package iuh.fit.se;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
